@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">短号来电显示</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="introduction_tag">关于短号显示 V1.0</string>
+    <string name="introduction">\n短号来电显示是由SEP6200全球支持中心倾情制作。\n具有以下优点：\n\t(1)无广告\n\t(2)无后台程序\n\t(3)退出程序后仍可显示短号的联系人信息</string>
+	<string name="contact"> 
+	        \t作者：东南大学SEP6200全球支持中心 华东小白
+	        \n\t微博：大熊猫保护协会 @新浪微博
+			\n\t邮箱：tozhuzhiqing@hotmail.com
+	</string>
+</resources>
